@@ -1193,3 +1193,6 @@ section .container {
 .news {
   padding-top: 30px;
 }
+.passion {
+  background-color: cornflowerblue;
+}
