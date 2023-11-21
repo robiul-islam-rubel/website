@@ -1190,9 +1190,10 @@ section .container {
   color: #fff;
 }
 
-.news {
-  padding-top: 30px;
-}
 .passion {
   background-color: cornflowerblue;
+}
+
+.news {
+  background-color: red;
 }
